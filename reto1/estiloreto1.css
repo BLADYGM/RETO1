@@ -1,0 +1,40 @@
+
+
+header 
+{
+	background: #ffff00;
+	color:  white;
+	overflow: hidden;
+	padding: 1%;	
+	position: relative;
+}
+
+nav {
+	background:#FF6600; /* #9B89F5*/
+	position: relative;
+	padding: 0.5%;	
+
+}
+article 
+{
+	background: #CCCC99;
+	position: relative;	
+	padding: 5%;
+}
+article div
+{
+	background: #FF9999;
+	margin: 1%;
+}
+.cuerpo
+{
+	background: #99CC66;
+}
+
+footer 
+{
+	background: #FF66FF;
+	padding: 1%;
+	
+}
+
